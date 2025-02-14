@@ -1,9 +1,10 @@
 # [NOMBRE DEL PROYECTO]
 
-Fecha: [dd/mm/yyyy]
+Fecha: [dd/mm/yyyy] 
 
 Participantes: 
 
+- [nombre]  <email: >
 - [nombre]  <email: > 
 
 ## Descripción del Problema
@@ -35,3 +36,5 @@ Participantes:
 ## Análisis y Diseño
 
 <!-- Incluir el algoritmo o pseudocódigo. También puedes usar casos de uso, u otros diagramas UML. Como sugerencia dar solución requisito por requisito. Describir formatos de datos de entrada y salida. -->
+
+## Conclusion
