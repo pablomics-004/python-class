@@ -20,7 +20,7 @@ Participantes:
 
 <!-- funcionalidades del sistema: Describen lo que el sistema debe hacer -->
 
-1. Leer ..
+1. Leer ...
 2. Calcular .... 
 3. Desplegar ...
 
@@ -28,7 +28,7 @@ Participantes:
 #### Requisitos no funcionales
 <!-- Tiempo de respuesta, capacidad de almacenamiento, seguridad, o alguna especificación como el lenguaje de programación, plataforma tecnológica. -->
 
-4. Incluir ..
+4. Incluir ...
 5. Usar python como lenguaje de programación
 
 
