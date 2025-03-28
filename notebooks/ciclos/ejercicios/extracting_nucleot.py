@@ -1,6 +1,6 @@
 usr_input = input("\nIngrese sus secuencias de DNA separadas por comas: ").split(",")
 
 # Obtención de los primeros tres nucleótidos por secuencia
-seq3 = [seq[:3] for seq in usr_input]
+seq3 = [seq.strip()[:3] for seq in usr_input]
 
 print(f"\nLos primeros tres nucleótidos de cada secuencia son: {seq3}\n")
