@@ -1,4 +1,4 @@
-with open("dna_sequences.txt") as dnaseq, open("dna_sequences.fa","w") as dnaseq_fa:
+with open("data/dna_sequences.txt") as dnaseq, open("results/dna_sequences.fa","w") as dnaseq_fa:
 
     for line in dnaseq:
         # Obtenemos ID y secuencias

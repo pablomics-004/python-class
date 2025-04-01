@@ -1,11 +1,11 @@
-with open("4_input_adapters.txt") as input_file, open("4_no_input_adapters.txt","w") as no_adapt:
+with open("data/4_input_adapters.txt") as infile, open("results/4_input_no_adapters.txt","w") as outfile:
     
-    for line in input_file:
+    for line in infile:
 
         # Retiro de los adaptadores
         new_line = line.strip()[14:]
 
         # Impresión en el nuevo archivo
-        print(new_line,file=no_adapt,end="\n")
+        print(new_line,file=outfile,end="\n")
     
     print("\nGeneración del archivo: exitosa.\n")
